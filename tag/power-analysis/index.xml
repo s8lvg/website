@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Power Analysis | Lukas Gerlach</title>
-    <link>https://example.com/tag/power-analysis/</link>
-      <atom:link href="https://example.com/tag/power-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lukasgerlach.me/tag/power-analysis/</link>
+      <atom:link href="https://lukasgerlach.me/tag/power-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Power Analysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7fa1a2d8d97c0542409d7742295b0506_149374_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lukasgerlach.me/media/icon_hu7fa1a2d8d97c0542409d7742295b0506_149374_512x512_fill_lanczos_center_3.png</url>
       <title>Power Analysis</title>
-      <link>https://example.com/tag/power-analysis/</link>
+      <link>https://lukasgerlach.me/tag/power-analysis/</link>
     </image>
     
     <item>
       <title>Collide&#43;Power: Leaking Inaccessible Data with Software-based Power Side Channels</title>
-      <link>https://example.com/publication/2023-collide-power/</link>
+      <link>https://lukasgerlach.me/publication/2023-collide-power/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-collide-power/</guid>
+      <guid>https://lukasgerlach.me/publication/2023-collide-power/</guid>
       <description></description>
     </item>
     

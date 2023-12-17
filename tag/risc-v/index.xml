@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RISC-V | Lukas Gerlach</title>
-    <link>https://example.com/tag/risc-v/</link>
-      <atom:link href="https://example.com/tag/risc-v/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lukasgerlach.me/tag/risc-v/</link>
+      <atom:link href="https://lukasgerlach.me/tag/risc-v/index.xml" rel="self" type="application/rss+xml" />
     <description>RISC-V</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7fa1a2d8d97c0542409d7742295b0506_149374_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lukasgerlach.me/media/icon_hu7fa1a2d8d97c0542409d7742295b0506_149374_512x512_fill_lanczos_center_3.png</url>
       <title>RISC-V</title>
-      <link>https://example.com/tag/risc-v/</link>
+      <link>https://lukasgerlach.me/tag/risc-v/</link>
     </image>
     
     <item>
       <title>A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs</title>
-      <link>https://example.com/publication/2023-security-risc/</link>
+      <link>https://lukasgerlach.me/publication/2023-security-risc/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-security-risc/</guid>
+      <guid>https://lukasgerlach.me/publication/2023-security-risc/</guid>
       <description></description>
     </item>
     

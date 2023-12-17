@@ -2,111 +2,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/publication/2024-cache-warp/</loc>
+    <loc>https://lukasgerlach.me/publication/2024-cache-warp/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/confidential-computing/</loc>
+    <loc>https://lukasgerlach.me/tag/confidential-computing/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/2024-micro-hash/</loc>
+    <loc>https://lukasgerlach.me/publication/2024-micro-hash/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/logic-solving/</loc>
+    <loc>https://lukasgerlach.me/tag/logic-solving/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/paper-conference/</loc>
+    <loc>https://lukasgerlach.me/publication-type/paper-conference/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>https://lukasgerlach.me/publication_types/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>https://lukasgerlach.me/publication/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/reverse-engineering/</loc>
+    <loc>https://lukasgerlach.me/tag/reverse-engineering/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://lukasgerlach.me/tags/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://lukasgerlach.me/event/</loc>
     <lastmod>2023-12-07T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/rowhammer-revisited-from-exploration-to-exploitation-and-mitigation/</loc>
+    <loc>https://lukasgerlach.me/talk/rowhammer-revisited-from-exploration-to-exploitation-and-mitigation/</loc>
     <lastmod>2023-12-07T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/a-security-risc-the-state-of-microarchitectural-attacks-on-risc-v/</loc>
+    <loc>https://lukasgerlach.me/talk/a-security-risc-the-state-of-microarchitectural-attacks-on-risc-v/</loc>
     <lastmod>2023-12-02T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/2023-rowhammer-reprod/</loc>
+    <loc>https://lukasgerlach.me/publication/2023-rowhammer-reprod/</loc>
     <lastmod>2023-10-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/2023-reviving-meltdown-3a/</loc>
+    <loc>https://lukasgerlach.me/publication/2023-reviving-meltdown-3a/</loc>
     <lastmod>2023-10-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/meltdown/</loc>
+    <loc>https://lukasgerlach.me/tag/meltdown/</loc>
     <lastmod>2023-10-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/2023-indirect-meltdown/</loc>
+    <loc>https://lukasgerlach.me/publication/2023-indirect-meltdown/</loc>
     <lastmod>2023-10-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/rowhammer/</loc>
+    <loc>https://lukasgerlach.me/tag/rowhammer/</loc>
     <lastmod>2023-10-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/transient-execution/</loc>
+    <loc>https://lukasgerlach.me/tag/transient-execution/</loc>
     <lastmod>2023-10-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/2023-collide-power/</loc>
+    <loc>https://lukasgerlach.me/publication/2023-collide-power/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/power-analysis/</loc>
+    <loc>https://lukasgerlach.me/tag/power-analysis/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/side-channel/</loc>
+    <loc>https://lukasgerlach.me/tag/side-channel/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/2023-hammulator/</loc>
+    <loc>https://lukasgerlach.me/publication/2023-hammulator/</loc>
     <lastmod>2023-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/simulation/</loc>
+    <loc>https://lukasgerlach.me/tag/simulation/</loc>
     <lastmod>2023-06-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/2023-security-risc/</loc>
+    <loc>https://lukasgerlach.me/publication/2023-security-risc/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/risc-v/</loc>
+    <loc>https://lukasgerlach.me/tag/risc-v/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://lukasgerlach.me/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://lukasgerlach.me/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

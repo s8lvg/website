@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Confidential Computing | Lukas Gerlach</title>
-    <link>https://example.com/tag/confidential-computing/</link>
-      <atom:link href="https://example.com/tag/confidential-computing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lukasgerlach.me/tag/confidential-computing/</link>
+      <atom:link href="https://lukasgerlach.me/tag/confidential-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Confidential Computing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7fa1a2d8d97c0542409d7742295b0506_149374_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lukasgerlach.me/media/icon_hu7fa1a2d8d97c0542409d7742295b0506_149374_512x512_fill_lanczos_center_3.png</url>
       <title>Confidential Computing</title>
-      <link>https://example.com/tag/confidential-computing/</link>
+      <link>https://lukasgerlach.me/tag/confidential-computing/</link>
     </image>
     
     <item>
       <title>CacheWarp: Software-based Fault Injection using Selective State Reset</title>
-      <link>https://example.com/publication/2024-cache-warp/</link>
+      <link>https://lukasgerlach.me/publication/2024-cache-warp/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2024-cache-warp/</guid>
+      <guid>https://lukasgerlach.me/publication/2024-cache-warp/</guid>
       <description></description>
     </item>
     

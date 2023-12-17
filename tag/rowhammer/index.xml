@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rowhammer | Lukas Gerlach</title>
-    <link>https://example.com/tag/rowhammer/</link>
-      <atom:link href="https://example.com/tag/rowhammer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lukasgerlach.me/tag/rowhammer/</link>
+      <atom:link href="https://lukasgerlach.me/tag/rowhammer/index.xml" rel="self" type="application/rss+xml" />
     <description>Rowhammer</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7fa1a2d8d97c0542409d7742295b0506_149374_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lukasgerlach.me/media/icon_hu7fa1a2d8d97c0542409d7742295b0506_149374_512x512_fill_lanczos_center_3.png</url>
       <title>Rowhammer</title>
-      <link>https://example.com/tag/rowhammer/</link>
+      <link>https://lukasgerlach.me/tag/rowhammer/</link>
     </image>
     
     <item>
       <title>A Rowhammer Reproduction Study Using the Blacksmith Fuzzer</title>
-      <link>https://example.com/publication/2023-rowhammer-reprod/</link>
+      <link>https://lukasgerlach.me/publication/2023-rowhammer-reprod/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-rowhammer-reprod/</guid>
+      <guid>https://lukasgerlach.me/publication/2023-rowhammer-reprod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hammulator: Simulate Now-Exploit Later</title>
-      <link>https://example.com/publication/2023-hammulator/</link>
+      <link>https://lukasgerlach.me/publication/2023-hammulator/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-hammulator/</guid>
+      <guid>https://lukasgerlach.me/publication/2023-hammulator/</guid>
       <description></description>
     </item>
     

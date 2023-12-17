@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Lukas Gerlach</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lukasgerlach.me/publication/</link>
+      <atom:link href="https://lukasgerlach.me/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7fa1a2d8d97c0542409d7742295b0506_149374_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lukasgerlach.me/media/icon_hu7fa1a2d8d97c0542409d7742295b0506_149374_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>https://lukasgerlach.me/publication/</link>
     </image>
     
     <item>
       <title>CacheWarp: Software-based Fault Injection using Selective State Reset</title>
-      <link>https://example.com/publication/2024-cache-warp/</link>
+      <link>https://lukasgerlach.me/publication/2024-cache-warp/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2024-cache-warp/</guid>
+      <guid>https://lukasgerlach.me/publication/2024-cache-warp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient and Generic Microarchitectural Hash-Function Recovery</title>
-      <link>https://example.com/publication/2024-micro-hash/</link>
+      <link>https://lukasgerlach.me/publication/2024-micro-hash/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2024-micro-hash/</guid>
+      <guid>https://lukasgerlach.me/publication/2024-micro-hash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Rowhammer Reproduction Study Using the Blacksmith Fuzzer</title>
-      <link>https://example.com/publication/2023-rowhammer-reprod/</link>
+      <link>https://lukasgerlach.me/publication/2023-rowhammer-reprod/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-rowhammer-reprod/</guid>
+      <guid>https://lukasgerlach.me/publication/2023-rowhammer-reprod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indirect Meltdown: Building Novel Side-Channel Attacks from Transient-Execution Attacks</title>
-      <link>https://example.com/publication/2023-reviving-meltdown-3a/</link>
+      <link>https://lukasgerlach.me/publication/2023-reviving-meltdown-3a/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-reviving-meltdown-3a/</guid>
+      <guid>https://lukasgerlach.me/publication/2023-reviving-meltdown-3a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reviving Meltdown 3a</title>
-      <link>https://example.com/publication/2023-indirect-meltdown/</link>
+      <link>https://lukasgerlach.me/publication/2023-indirect-meltdown/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-indirect-meltdown/</guid>
+      <guid>https://lukasgerlach.me/publication/2023-indirect-meltdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collide&#43;Power: Leaking Inaccessible Data with Software-based Power Side Channels</title>
-      <link>https://example.com/publication/2023-collide-power/</link>
+      <link>https://lukasgerlach.me/publication/2023-collide-power/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-collide-power/</guid>
+      <guid>https://lukasgerlach.me/publication/2023-collide-power/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hammulator: Simulate Now-Exploit Later</title>
-      <link>https://example.com/publication/2023-hammulator/</link>
+      <link>https://lukasgerlach.me/publication/2023-hammulator/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-hammulator/</guid>
+      <guid>https://lukasgerlach.me/publication/2023-hammulator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs</title>
-      <link>https://example.com/publication/2023-security-risc/</link>
+      <link>https://lukasgerlach.me/publication/2023-security-risc/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-security-risc/</guid>
+      <guid>https://lukasgerlach.me/publication/2023-security-risc/</guid>
       <description></description>
     </item>
     
