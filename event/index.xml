@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Lukas Gerlach</title>
+    <link>https://example.com/event/</link>
+      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Dec 2023 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7fa1a2d8d97c0542409d7742295b0506_149374_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://example.com/event/</link>
+    </image>
+    
+    <item>
+      <title>Rowhammer Revisited: From Exploration to Exploitation and Mitigation</title>
+      <link>https://example.com/talk/rowhammer-revisited-from-exploration-to-exploitation-and-mitigation/</link>
+      <pubDate>Thu, 07 Dec 2023 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/rowhammer-revisited-from-exploration-to-exploitation-and-mitigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Security RISC? The State of Microarchitectural Attacks on RISC-V</title>
+      <link>https://example.com/talk/a-security-risc-the-state-of-microarchitectural-attacks-on-risc-v/</link>
+      <pubDate>Sat, 02 Dec 2023 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/a-security-risc-the-state-of-microarchitectural-attacks-on-risc-v/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
